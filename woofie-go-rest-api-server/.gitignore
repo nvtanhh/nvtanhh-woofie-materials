@@ -1,0 +1,8 @@
+vendor
+gin-bin
+main
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/woofie-services.iml
+/.idea/workspace.xml
+/gin-bin.exe
